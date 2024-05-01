@@ -1,3 +1,3 @@
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/sina-moradbakhti/free-wow-conf-generator/main/fccipp.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/RuShSE7EN/Kiomars/main/Untitled.sh)
 ```
